@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neslihan</h1>
-<h3 align="center">A game developer with computer science degree. Loves playing and making games.</h3>
+<h3 align="center">A game developer with computer science degree. Love playing and making games.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neslihancetinkaya&label=Profile%20views&color=0e75b6&style=flat" alt="neslihancetinkaya" /> </p>
 
