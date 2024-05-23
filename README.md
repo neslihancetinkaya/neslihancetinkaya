@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neslihancetinkaya" alt="neslihancetinkaya" /></a> </p>
 
-- 🔭 I’m currently working on **Quiz Game**
+- 🔭 I’m currently working on **Rabbit Farm**
 
-- 🌱 I’m currently learning **Unity, C#**
+- 🌱 I’m currently learning **Multiplayer games**
 
 - 👯 I’m looking to collaborate on **games**
 
-- 🤝 I’m looking for help with [ETERNIA](https://github.com/neslihancetinkaya/U35)
+- 🤝 I’m looking for help with Multiplayer **Game Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/neslihancetinkaya](https://github.com/neslihancetinkaya)
 
 - 💬 Ask me about **Unity, C# and games**
 
-- 📫 How to reach me **codewithnes@gmail.com**
+- 📫 How to reach me **gamedevnesli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
